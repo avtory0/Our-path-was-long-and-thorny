@@ -1,2 +1,2 @@
 # oop_lab1_task1
-Balancevich Maksim Sergeevich 8 POIBMS
+Balancevich Maksim 8 POIBMS
